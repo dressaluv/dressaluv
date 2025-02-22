@@ -34,7 +34,7 @@ Aqui você encontrará meus primeiros passos no mundo da **programação**. Busc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andressa-ramos-adm/)  
 
-💌 Vamos trocar ideias? Me mande uma mensagem!
+💌 Vamos trocar ideias ou colaborar em algum projeto? Me mande uma mensagem!
 
 ---
 
