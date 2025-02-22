@@ -1,16 +1,46 @@
-## Hi there 👋
+### Olá mundo, eu sou a [Andressa]! 🌍👽
 
-<!--
-**dressaluv/dressaluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindos ao meu perfil! 
+Aqui você encontrará meus primeiros passos no mundo da **programação**. Busco aprender **automação, análise de dados e desenvolvimento** para aprimorar minha atuação na área de negócios. 🚶‍♀️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim 💁🏾‍♀️
+- 💼 Analista de Controles Internos Júnior
+- 🎓 Formada em Administração
+- 🎮 Apaixonada por jogos RPG
+- 🐱 Fã de gatos (mesmo sem ter um... ainda! 😸)
+
+---
+
+## Estou aprendendo 🔍
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+
+<div>
+<a href="https://github.com/seu-dressaluv">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dressaluv&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dressaluv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+📌 **Sempre buscando aprender!**
+
+---
+
+### 🌎 Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andressa-ramos-adm/)  
+
+💌 Vamos trocar ideias? Me mande uma mensagem!
+
+---
+
+### 🐱 Bônus: Um gato para alegrar seu dia!
+
+![Gato fofo](https://cataas.com/cat/says/Hello!)
+
+🚀 Obrigada por visitar meu perfil! 
+
+---
+
+🔎 *"A melhor maneira de prever o futuro é criá-lo."* – Peter Drucker
