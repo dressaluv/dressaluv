@@ -1,4 +1,4 @@
-### Olá mundo, eu sou a [Andressa]! 🌍👽
+### Olá mundo, eu sou a Andressa! 🌍👽
 
 Bem-vindos ao meu perfil! 
 Aqui você encontrará meus primeiros passos no mundo da **programação**. Busco aprender **automação, análise de dados e desenvolvimento** para aprimorar minha atuação na área de negócios. 🚶‍♀️
@@ -16,12 +16,17 @@ Aqui você encontrará meus primeiros passos no mundo da **programação**. Busc
 ## Estou aprendendo 🔍
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
 
 <div>
 <a href="https://github.com/seu-dressaluv">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dressaluv&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dressaluv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 📌 **Sempre buscando aprender!**
 
@@ -35,9 +40,10 @@ Aqui você encontrará meus primeiros passos no mundo da **programação**. Busc
 
 ---
 
-### 🐱 Bônus: Um gato para alegrar seu dia!
+### 🐱 Bônus: Um gatinho para alegrar seu dia!
 
 ![Gato fofo](https://cataas.com/cat/says/Hello!)
+
 
 🚀 Obrigada por visitar meu perfil! 
 
